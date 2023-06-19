@@ -16,8 +16,6 @@ Currently acquiring knowledge in JavaScript, TypeScript, Python, Vue.Js and Reac
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=project_reactive-calculator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=harrypotter_landingpage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=nintendo_world_webpage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
