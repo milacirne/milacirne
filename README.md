@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-Front-end developer with experience in HTML, CSS, SASS, LESS, Bootstrap, GULP, GitHub and front-end layouts.
+I ama Front-end developer with experience in HTML, CSS, SASS, LESS, Bootstrap, GULP, GitHub and front-end layouts.
 
 Currently acquiring knowledge in JavaScript, TypeScript, Python, Vue.Js and React.js to become a Full Stack Developer.
 
