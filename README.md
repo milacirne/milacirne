@@ -3,7 +3,7 @@
 ### About me
 Full Stack Python developer in training with a background in Nutrition and a master's degree in Food Science and Technology. Currently on career transition and focusing on Front-End development, I am dedicated to improving and updating my skills. Excited to bring my abilities and passions to the technology industry and contribute to innovative projects.
 
-• Expertise in HTML, CSS, Git, GitHub, Bootstrap, SASS, LESS, JavaScript, Gulp, and React.
+• Knowledge in HTML, CSS, Git, GitHub, Bootstrap, SASS, LESS, JavaScript, Gulp, and React.
 
 • Familiar with Python, Java, Vue.js, Styled-Components and SQL.
 
