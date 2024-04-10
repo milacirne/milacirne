@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 ### About me
-Frontend developer in training with a background in Nutrition and a master's degree in Food Science and Technology. Currently on career transition and focusing on Front-End development, I am dedicated to improving and updating my skills. Excited to bring my abilities and passions to the technology industry and contribute to innovative projects.
+My name is Camila Cirne. A Front-end Developer passionate about technology.
+I am dedicated to improving and updating my skills, always challeging myself with new projects. I am excited to bring my abilities and passions to the technology industry and contribute to innovative projects.
+Ah! I'm also a fan of games, movies, tv series and anime.💜
 
-• Knowledge in HTML, CSS, Git, GitHub, Bootstrap, SASS, LESS, JavaScript, Gulp, and React.
+• Knowledge in Git, GitHub, Bootstrap, SASS, LESS, JavaScript, TypeScript, Gulp, React and Styled-Components.
 
-• Familiar with Python, Java, Vue.js, Styled-Components and SQL.
+• Familiar with Python, Java, Vue.js and SQL.
 
 
 ### Details
