@@ -7,7 +7,7 @@ Ah! I'm also a fan of games, movies, tv series and anime.💜
 
 • Knowledge in Git, GitHub, Bootstrap, SASS, LESS, JavaScript, TypeScript, Gulp, React and Styled-Components.
 
-• Familiar with Python, Java, Vue.js and SQL.
+• Familiar with Python, Java, .NET, Vue.js and SQL.
 
 
 ### Details
