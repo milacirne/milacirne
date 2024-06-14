@@ -17,11 +17,11 @@ Ah! I'm also a fan of games, movies, tv series and anime.💜
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=star-wars_birthday_page&theme=transparent)](https://github.com/milacirne/star-wars_birthday_page) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=efood&theme=transparent)]([https://github.com/milacirne/efood])
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=harrypotter_landingpage&theme=transparent)](https://github.com/milacirne/harrypotter_landingpage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=projeto_filmes_primeflix&theme=transparent)](https://github.com/milacirne/ebac_tech_talks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=harrypotter_landingpage&theme=transparent)](https://github.com/milacirne/harrypotter_landingpage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=projeto_filmes_primeflix&theme=transparent)]([https://github.com/milacirne/projeto_filmes_primeflix])
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=clone_disneyplus&theme=transparent)](https://github.com/milacirne/clone_disneyplus) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=nintendo_world_webpage&theme=transparent)](https://github.com/milacirne/nintendo_world_webpage)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=email-template_multiversus-travel-agency&theme=transparent)](https://github.com/milacirne/email-template_multiversus-travel-agency) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=project_reactive-calculator&theme=transparent)]([https://github.com/milacirne/efood]) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=email-template_multiversus-travel-agency&theme=transparent)](https://github.com/milacirne/email-template_multiversus-travel-agency) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=project_reactive-calculator&theme=transparent)]([https://github.com/milacirne/project_reactive-calculator]) 
 
 ### Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milacirne&layout=compact)]
