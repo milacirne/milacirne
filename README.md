@@ -15,7 +15,7 @@ Ah! I'm also a fan of games, movies, tv series and anime.💜
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=star-wars_birthday_page&theme=transparent)](https://github.com/milacirne/star-wars_birthday_page) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=efood&theme=transparent)]([https://github.com/milacirne/efood])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=star-wars_birthday_page&theme=transparent)](https://github.com/milacirne/star-wars_birthday_page) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=projeto_filmes_primeflix&theme=transparent)]([https://github.com/milacirne/efood])
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=harrypotter_landingpage&theme=transparent)](https://github.com/milacirne/harrypotter_landingpage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=projeto_filmes_primeflix&theme=transparent)](https://github.com/milacirne/ebac_tech_talks)
 
