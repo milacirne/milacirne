@@ -23,6 +23,8 @@ Ah! I'm also a fan of games, movies, tv series and anime.💜
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=email-template_multiversus-travel-agency&theme=transparent)](https://github.com/milacirne/email-template_multiversus-travel-agency) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=project_reactive-calculator&theme=transparent)](https://github.com/milacirne/project_reactive-calculator)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=milacirne&repo=contact_list_react-redux&theme=transparent)](https://github.com/milacirne/contact_list_react-redux)
+
 ### Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milacirne&layout=compact)]
 
